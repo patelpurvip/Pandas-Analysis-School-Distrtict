@@ -1,6 +1,6 @@
 # Pandas-School-District-Analysis
 
-![Education](Images/panda.png)
+![Education](Images/ed_data.png)
 
 This exercise was designed to simiulate district-wide analysis for a local school board, with the aim of helping to make strategic decisions regarding future school budgets and priorities. To this end, the task required analyzing district-wide standardized test results. The original datasets provided math and reading scores for every student in the district, as well as information on the schools they attended. The first step was to aggregate the data to and evaluate trends in school performance.
 
