@@ -1,4 +1,4 @@
-# Pandas-Analysis-School-Distrtict
+# Pandas-School-District-Analysis
 
 ![Education](Images/panda.png)
 
