@@ -41,7 +41,7 @@ The summary-by-school provides an overview of key metrics, including:
 * % Passing Reading
 * Overall Passing Rate
 
-![Summary by School](Images/summary_by_school.png)
+![Summary by School](Images/summary-by-school.png)
 
 -----
 ## 3) Outlier Schools
