@@ -5,7 +5,7 @@
 This exercise was designed to simiulate district-wide analysis for a local school board, with the aim of helping to make strategic decisions regarding future school budgets and priorities. To this end, the task required analyzing district-wide standardized test results. The original datasets provided math and reading scores for every student in the district, as well as information on the schools they attended. The first step was to aggregate the data to and evaluate trends in school performance.
 
 The final evaluations included:
-1. A District Summary
+1. a District Summary
 2. Summary statistics for each school
 3. Identification of the top & bottom performing schools (by passing rate)
 4. Math & Reading Scores by Grade Level
@@ -79,3 +79,6 @@ This table provides a similar school spending breakdown, but based on a reasonab
 -----
 ## 7) Scores by School Type
 The final analysis comapres massing math and reading rates, as well as OPR, this time based on school type (Charter vs. District).
+
+### Copyright
+**Exercise designed by © 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.**
