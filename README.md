@@ -13,6 +13,11 @@ The final evaluations included:
 6. Scores by School Size
 7. Scores by School Type
 
+## Contents
+1. Jupyter Notebook with all python code used in the analysis
+2. Initial data sets (2) for all schools and all students in the district (csv format)
+3. Images folder - png images of all the final dataframes, as shown below
+
 -----
 ## 1) District Summary
 The district summary provides a high-level snapshot of the district's key metrics, including:
@@ -99,6 +104,14 @@ This table provides a similar school spending breakdown, but based on a reasonab
 ## 7) Scores by School Type
 The final analysis comapres massing math and reading rates, as well as OPR, this time based on school type (Charter vs. District).
 ![School Type Bins](Images/school_type_bins.png)
+
+# Evaluation
+The district has almost 40,000 students, with a total budget of just over $24,600,000.  The overall passing rate is just above 80%, with the passing rate in math (74.98%) being lower than the passing rate in reading (85.81%).  While average math and reading scores and passing rates varied between schools, they generally remained stable from grades 9-12 within each school. 
+
+Overall, the amount of spending per student at each school did not seem to strongly effect the math and reading outcomes. The one exception here were schools with the highest budgets and highest levels of spending per student, where student passing rates were noticeably lower, especially realated to math scores. Thus, the schools with the highest budgets are not the highest performing. For example, Johnson High School and Rodriguez High School were among the 5 bottom-performing schools, but also had two of the highest school budgets -- around $3.1M and $2.5M, respectively.  By constrast, Pena High School and Griffin High School were among the 5 top-performing schools despite both having budgets under $1M -- around $586K and $900K respectively.
+
+School size also did not noteiceably affect student math and reading outcomes. However, whether or not a school was a district school or a charter school had a strong correlation with outcomes, with students from charter school noticeably outperforming those from district school in both math and reading. 
+
 
 ### Copyright
 **Exercise designed by © 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.**
