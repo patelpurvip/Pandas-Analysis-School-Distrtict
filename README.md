@@ -1,4 +1,5 @@
-# Pandas Analysis of School District Math & Reading Testing Data
+# Pandas Analysis of School District Data
+### Evaluation of Math & Reading Testing Scores
 
 ![Education](Images/panda.png)
 
