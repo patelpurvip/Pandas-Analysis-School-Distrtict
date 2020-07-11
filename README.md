@@ -112,7 +112,3 @@ The district has almost 40,000 students, with a total budget of just over $24,60
 Overall, the amount of spending per student at each school did not seem to strongly effect the math and reading outcomes. The one exception here were schools with the highest budgets and highest levels of spending per student, where student passing rates were noticeably lower, especially realated to math scores. Thus, the schools with the highest budgets are not the highest performing. For example, Johnson High School and Rodriguez High School were among the 5 bottom-performing schools, but also had two of the highest school budgets -- around $3.1M and $2.5M, respectively.  By constrast, Pena High School and Griffin High School were among the 5 top-performing schools despite both having budgets under $1M -- around $586K and $900K respectively.
 
 School size also did not noteiceably affect student math and reading outcomes. However, whether or not a school was a district school or a charter school had a strong correlation with outcomes, with students from charter school noticeably outperforming those from district school in both math and reading. 
-
-
-### Copyright
-**Exercise designed by © 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.**
